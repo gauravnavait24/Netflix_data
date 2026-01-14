@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes Netflix’s movies and TV shows dataset to uncover content trends, audience preferences, and business insights. Using **Python, SQL, Excel, and Tableau**, the analysis focuses on content distribution, release patterns, genre popularity, and regional trends to support data-driven decision-making.
+This project analyzes Netflix’s movies and TV shows dataset to uncover content trends, audience preferences, and business insights. Using SQL, Excel, and Tableau**, the analysis focuses on content distribution, release patterns, genre popularity, and regional trends to support data-driven decision-making.
 
 ## 🎯 Objectives
 
@@ -19,7 +19,6 @@ This project analyzes Netflix’s movies and TV shows dataset to uncover content
 
 ## 🛠️ Tools & Technologies
 
-* **Python:** Pandas, NumPy, Matplotlib
 * **SQL:** Data querying and aggregation
 * **Excel:** Data cleaning and pivot analysis
 * **Tableau:** Interactive dashboards and storytelling
@@ -69,16 +68,6 @@ Example usage in README:
 ├── README.md
 
 ```
-
-## 📌 How to Use
-1. Clone the repository
-2. Load the dataset from the `data` folder
-3. Explore insights using Excel analysis
-4. Open the **Tableau dashboard link** for interactive exploration
-1. Clone the repository
-2. Load the dataset from the `data` folder
-3. Run the analysis to explore the Tableau dashboard
-
 ## 📬 Contact
 For questions or collaboration, feel free to connect via GitHub or LinkedIn.
 linkedin: www.linkedin.com/in/gaurav-navait-a1b2ba29a
