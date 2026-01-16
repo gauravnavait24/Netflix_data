@@ -1,0 +1,14 @@
+Project Storytelling
+
+Netflix operates in a highly competitive streaming market where content strategy directly impacts user acquisition, engagement, and retention.
+This project analyzes Netflix’s Movies and TV Shows dataset to uncover patterns in content distribution, growth trends, genres, ratings, and regional focus.
+
+The analysis begins by examining the content mix, revealing that movies dominate the platform in volume, helping Netflix maintain scale, while TV shows—though fewer—play a crucial role in long-term user engagement and binge behavior.
+
+Next, a time-based analysis highlights a sharp increase in content additions after 2015, with peak growth between 2018 and 2020. This trend reflects Netflix’s aggressive expansion strategy during periods of global growth and rising competition.
+
+A country-wise analysis shows that the United States leads in content production, while countries such as India and the United Kingdom demonstrate rapid growth. This indicates Netflix’s strategic shift toward localized and international content to capture diverse global audiences.
+
+The genre analysis reveals Drama, Comedy, and International content as the most prominent categories, showcasing Netflix’s focus on serving varied viewer preferences. Additionally, ratings analysis indicates a strong emphasis on TV-MA and TV-14 content, suggesting a primary target audience of mature and young adult viewers.
+
+Overall, this project demonstrates how Netflix balances content volume, engagement, and regional diversity to strengthen its market position. The insights generated can support data-driven decisions related to content acquisition, regional investment, and audience targeting.
